@@ -1,8 +1,7 @@
-// PHYS 30762 Programming in C++
+// Programming in C++
 // Project : Particle Catalogue
 // Compile line g++ -std=c++17 -g .\Boson.cpp .\Electron.cpp .\Gluon.cpp .\Higgs.cpp .\Lepton.cpp .\Muon.cpp .\Neutrino.cpp .\Particle.cpp .\ParticleCatalogue.cpp .\Photon.cpp .\Quark.cpp .\Tau.cpp .\W_Boson.cpp .\Z_Boson.cpp .\project_main.cpp -o project_main
 // Author : Hardik Kohli
-// Student ID: 10636495
 // Date: 08/05/2024
 
 #include <iostream>
